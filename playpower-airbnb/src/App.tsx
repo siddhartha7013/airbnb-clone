@@ -132,80 +132,26 @@ const photos = [
   title: "Panoramic exterior view",
   room: "Exterior",
 },
-{
-  src: "/images/additional-1.jpeg.jpeg",
-  title: "Jacuzzi lounge seating",
-  room: "Additional photos",
-},
+
 {
   src: "/images/additional-2.jpeg.jpeg",
   title: "Living space and jacuzzi",
   room: "Additional photos",
 },
-{
-  src: "/images/additional-3.jpeg.jpeg",
-  title: "Indoor jacuzzi lounge",
-  room: "Additional photos",
-},{
-  src: "/images/additional-1.jpeg",
-  title: "Jacuzzi lounge seating",
-  room: "Additional photos",
-},
-{
-  src: "/images/additional-2.jpeg",
-  title: "Living space and jacuzzi",
-  room: "Additional photos",
-},
-{
-  src: "/images/additional-3.jpeg",
-  title: "Indoor jacuzzi lounge",
-  room: "Additional photos",
-},
-{
-  src: "/images/additional-4.jpeg",
-  title: "Kitchen and living area",
-  room: "Additional photos",
-},
+
 {
   src: "/images/additional-5.jpeg",
   title: "Jacuzzi and dining area",
   room: "Additional photos",
 },
-{
-  src: "/images/additional-6.jpg",
-  title: "Living room interior",
-  room: "Additional photos",
-},
-{
-  src: "/images/additional-7.jpeg",
-  title: "Living area with jacuzzi",
-  room: "Additional photos",
-},
-{
-  src: "/images/additional-8.jpeg",
-  title: "Kitchen counter",
-  room: "Additional photos",
-},
+
+
 {
   src: "/images/additional-9.jpeg",
   title: "Additional property interior",
   room: "Additional photos",
 },
-{
-  src: "/images/additional-4.jpeg.jpeg",
-  title: "Kitchen and living area",
-  room: "Additional photos",
-},
-{
-  src: "/images/additional-5.jpeg.jpeg",
-  title: "Jacuzzi and dining area",
-  room: "Additional photos",
-},
-{
-  src: "/images/additional-6.jpeg.jpeg",
-  title: "Living room interior",
-  room: "Additional photos",
-},
+
 {
   src: "/images/additional-7.jpeg.jpeg",
   title: "Living area with jacuzzi",
